@@ -60,6 +60,10 @@
 				color: #000000;
 				text-decoration: none;
 			}
+			a.header_btn {
+				color: #ffffff;
+				text-decoration: none;
+			}
 			a:hover {
 				color: #0000ff;
 			}
@@ -102,8 +106,8 @@
 		<!-- 헤더 영역 -->
 		<header>
 			<h1>Welcome to Icheon</h1>
-			<a href="#">Login</a>
-			<a href="#">Favorites</a>
+			<a class="header_btn" href="#">Login</a>
+			<a class="header_btn" href="#">Favorites</a>
 		</header>
 		<div id="wrapper">
 			<!-- 사이드바 영역 -->
