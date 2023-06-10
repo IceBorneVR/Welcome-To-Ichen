@@ -67,9 +67,14 @@
 				color: #000000;
 				text-decoration: none;
 			}
-			a.header_btn
+			a.header_Btn
 			{
-				color: #ffffff;
+				color: #000000;
+				background-color: #ffffff;
+				padding: 10px;
+				border: 3px solid #ffffff;
+				border-radius: 5px;
+				font-weight: bold;
 				text-decoration: none;
 			}
 			a:hover
