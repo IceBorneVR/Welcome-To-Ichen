@@ -5,7 +5,8 @@
 		<title>Welcome to Icheon!</title>
 		<link rel="stylesheet" href="style.css">
 		<style>
-			body {
+			body
+			{
 				font-family: Arial;
 				font-size: 16px;
 				line-height: 1.5;
@@ -13,7 +14,8 @@
 				padding: 0;
 			}
 			/* 헤더 영역 스타일 */
-			header {
+			header
+			{
 				background-color: #212121;
 				color: #ffffff;
 				font-size: 24px;
@@ -30,14 +32,16 @@
 				margin: 0 auto;
 			}
 			/* 사이드바 영역 스타일 */
-			nav {
+			nav
+			{
 				background-color: #ffffff;
 				padding: 20px;
 				float: left;
 				max-width: 200px;
 			}
 			/* 사이드바 버튼 스타일 */
-			nav ul li {
+			nav ul li
+			{
 				background-color: #ffffff;
 				padding: 15px;
 				margin: 10px;
@@ -45,31 +49,31 @@
 				border-radius: 25px;
 				font-weight: bold;
 			}
-			ul {
+			ul
+			{
 				list-style-type: none;
 				margin: 0;
 				padding: 0;
 				display: flex;
 				flex-direction: column;
 			}
-			li {
+			li
+			{
 				display: inline-block;
 				margin: 0 10px;
 			}
-			a {
+			a
+			{
 				color: #000000;
 				text-decoration: none;
 			}
-			a.header_Btn {
-				color: #000000;
-				background-color: #ffffff;
-				padding: 10px;
-				border: 3px solid #ffffff;
-				border-radius: 5px;
-				font-weight: bold;
+			a.header_btn
+			{
+				color: #ffffff;
 				text-decoration: none;
 			}
-			a:hover {
+			a:hover
+			{
 				color: #0000ff;
 			}
 			main
@@ -79,12 +83,14 @@
 				margin-left: 200px;
 				max-width: 1000px;
 			}
-			section {
+			section
+			{
 				display: flex;
 				flex-direction: row;
 				flex-wrap: wrap;
 			}
-			div.box {
+			div.box
+			{
 				width: 200px;
 				margin: 10px;
 				border: 2px solid #000000;
@@ -93,14 +99,17 @@
 				text-align: center;
 				justify-content: space-around;
 			}
-			img {
+			img
+			{
 				width: 100%;
 			}
-			h2 {
+			h2
+			{
 				font-size: 18px;
 				font-weight: bold;
 			}
-			footer {
+			footer
+			{
 				background-color: #212121;
 				color: #ffffff;
 				padding: 20px;
@@ -169,7 +178,7 @@
 					</div>
 					<div class="box">
 						<img src="Image/이천시립박물관.jpg" alt="이천시립박물관">
-						<h2>이천시립박물관</h2>
+						<h2>이천 시립 박물관</h2>
 					</div>
 					<div class="box">
 						<img src="Image/이천테르메덴.jpg" alt="테르메덴">
