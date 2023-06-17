@@ -126,7 +126,7 @@
 		<!-- 헤더 영역 -->
 		<header>
 			<h1>Welcome to Icheon!</h1>
-			<a class="header_Btn" href="#">Login</a>
+			<a class="header_Btn" href="http://localhost:8081/WelcomeToIchen/Login.jsp">Login</a>
 			<a class="header_Btn" href="#">Favorites</a>
 		</header>
 		<div id="wrapper">

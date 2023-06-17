@@ -4,7 +4,16 @@
 <html>
 <head>
 <title>Welcome to Icheon!</title>
+<link rel="stylesheet" href="style.css">
 <Style>
+			body
+			{
+				font-family: Arial;
+				font-size: 16px;
+				line-height: 1.5;
+				margin: 0;
+				padding: 0;
+			}
 			/* 헤더 영역 스타일 */
 			header {
 				background-color: #212121;
